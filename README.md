@@ -26,10 +26,6 @@ A página é estilizada de forma a proporcionar uma experiência visual atraente
 
 ---
 
-## Como Usar
-
-Acesse o [Link](https://m4den.github.io/BlackAndWhite/)
-
 
 ## Licença
 
